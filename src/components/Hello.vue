@@ -1,7 +1,6 @@
 <template>
   <div class="hello">
     <img src="static/logo.png">
-    <h1>{{ msg }}</h1>
     <h2>This is </h2>
     <ul>
       <li><a href="https://vuejs.org" target="_blank">Core Docs</a></li>
