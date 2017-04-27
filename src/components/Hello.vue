@@ -1,6 +1,11 @@
 <template>
   <div class="hello">
     <img src="static/logo.png">
+    <img src="static/logo.png">
+    <img src="static/logo.png">
+    <img src="static/logo.png">
+    <img src="static/logo.png">
+    <img src="static/logo.png">
     <h2>{{msg}}</h2>
     <ul>
       <li><a href="https://vuejs.org" target="_blank">Core Docs</a></li>
@@ -10,7 +15,7 @@
       <br>
       <li><a href="http://vuejs-templates.github.io/webpack/" target="_blank">Docs for This Template</a></li>
     </ul>
-    <h2>gc-test</h2>
+    <h2>{{msg}}</h2>
     <ul>
       <li><a href="http://router.vuejs.org/" target="_blank">vue-router</a></li>
       <li><a href="http://vuex.vuejs.org/" target="_blank">vuex</a></li>
